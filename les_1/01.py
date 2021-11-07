@@ -1,0 +1,8 @@
+value_int1 = int(input("Введите число"))
+value_int2 = int(input("Введите ещё раз число"))
+value_str1 = input("А теперь введите что угодно")
+value_str2 = input("А теперь введите что угодно ещё раз")
+print('Вы ввели число', value_int1)
+print('Вы ввели число', value_int2)
+print("Вы ввели строку", value_str1)
+print("Вы ввели строку", value_str2)
